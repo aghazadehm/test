@@ -14,5 +14,5 @@ mindmap
             Strategic planning
             Argument mapping
     Tools
-     click CCCC "https://google.com"
+     click B "http://github.com" "This is a link"
 ```
