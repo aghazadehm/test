@@ -14,5 +14,5 @@ mindmap
             Strategic planning
             Argument mapping
     Tools
-    link B "http://github.com" "This is a link"
+    B %%http://github.com "This is a link"
 ```
