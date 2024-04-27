@@ -15,5 +15,6 @@ mindmap
             Argument mapping
     Tools
       Pen and paper
-      A[This is an <b>important</b> <a href='https://google.com'>link</a>]
+      Mermaid
+      click Mermaid "http://www.github.com"
 ```
