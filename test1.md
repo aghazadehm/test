@@ -15,5 +15,5 @@ mindmap
             Argument mapping
     Tools
       Pen and paper
-      <a href="https://github.com/aghazadehm/test/blob/main/test.md?plain=1">Mermaid</a>
+      [<a href="https://github.com/aghazadehm/test/blob/main/test.md?plain=1">Mermaid</a>]
 ```
