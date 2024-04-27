@@ -14,5 +14,5 @@ mindmap
             Strategic planning
             Argument mapping
     Tools
-      [!["Mermaid"](https://www.google.com)]
+     ["Mermaid: Click here to open Google](https://www.google.com)"
 ```
