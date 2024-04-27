@@ -16,5 +16,5 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-      click Mermaid "http://www.github.com"
+      click Mermaid "http://www.github.com" "This is a link"
 ```
