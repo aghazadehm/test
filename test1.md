@@ -16,3 +16,5 @@ mindmap
     Tools
     click ABCD 'http://github.com' "This is a link"
 ```
+
+https://xmind.ai/share/ZYmr33os?xid=7o9yB9lC
