@@ -7,14 +7,12 @@ mindmap
       Popularisation
         British popular psychology author Tony Buzan
     Research
-      On effectivness<br/>and features
+      On effectiveness<br/>and features
       On Automatic creation
         Uses
             Creative techniques
             Strategic planning
             Argument mapping
     Tools
-      Pen and paper
-      Mermaid
-      click Mermaid "http://www.github.com" "This is a link"
+      ["Mermaid"](javascript:window.open('https://www.google.com','_blank'))
 ```
